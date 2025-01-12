@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <img height="100" src="https://avatars.githubusercontent.com/u/194656717?v=4"  />
+</div>
 
-<!--
-**qraaaa/qraaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Hey, I'm qra 🙋🏽‍♂️</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="center">Hello, i'm qra a young self-taught developer.</h3>
+
+###
+
+<p align="center">I'm still learning, so not everything can be perfect</p>
+
+###
+
+<h3 align="center">Languages</h3>
+<div align="center" target="_blank" style="margin-top: 10px">
+   <img src="https://skillicons.dev/icons?i=html,css,python&theme=dark" /></a>
+</div>
+
+<h3 align="center">Tools I use</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,discord,photoshop&theme=dark" /></a>
+</div>
+
+###
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+###
